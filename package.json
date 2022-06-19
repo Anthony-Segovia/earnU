@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@stacks/auth": "^4.3.0",
+    "@stacks/connect": "^6.8.6",
+    "@stacks/connect-react": "^17.0.6",
+    "@stacks/transactions": "^4.3.0"
+  }
+}
